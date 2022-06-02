@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[FiveM Roleplay Server](https://discord.gg/ycDuC9HzBF)**
 
-- 🌱 I’m currently learning **UX/UI Design, Firebase**
+- 🌱 I’m currently learning **Firebase**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
