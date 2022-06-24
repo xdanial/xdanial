@@ -6,15 +6,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[FiveM Roleplay Server](https://discord.gg/ycDuC9HzBF)**
+- 🔭 I’m currently working on **[FiveM Roleplay Server](https://discord.gg/alianzaroleplay)**
 
 - 🌱 I’m currently learning **Firebase**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://discord.gg/ycDuC9HzBF)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://discord.gg/alianzaroleplay)**
 
-- 📫 How to reach me **https://discord.gg/ycDuC9HzBF**
+- 📫 How to reach me **https://discord.gg/alianzaroleplay**
 
 ## 🚀 Languages and Tools:
 
