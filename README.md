@@ -6,26 +6,20 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[FiveM Roleplay Server](https://discord.gg/alianzaroleplay)**
+- 🔭 I’m currently working on **a discord bot**
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://discord.gg/alianzaroleplay)**
-
-- 📫 How to reach me **https://discord.gg/alianzaroleplay**
+- 📫 You can add me at discord: **Danial#6666**
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-
+    
 <p align="center">
     <a href="https://github.com/xdanial/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Danial streak" src="https://github-readme-streak-stats.herokuapp.com/?user=xdanial&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
