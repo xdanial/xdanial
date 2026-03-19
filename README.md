@@ -1,16 +1,14 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media.discordapp.net/attachments/1464754636199039058/1484242270638182410/IMG_4361.jpg?ex=69bd83d5&is=69bc3255&hm=c0dbdf08e32b12892a3138bdfcba0e92586701603fdd66e075bba988b2e7371a&=&format=webp" height="175px"/></a>
 
-<h1 align="center">Hi I'm Danial</h1>
-<h3 align="center">I'm a passionate Computer Science student.</h3>
+<h1 align="center">Hi I'm Daniel</h1>
+<h3 align="center">I'm a passionate Computer Science/IT student.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **a discord bot**
 
-- 🌱 I’m currently learning **JavaScript**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🌱 I’m currently learning **LUA and Python**
 
 - 📫 You can add me at discord: **Danial#6666**
 
