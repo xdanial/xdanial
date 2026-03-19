@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://imgur.com/jO9akn1" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/jO9akn1.jpeg" height="175px"/></a>
 
 <h1 align="center">Hi I'm Daniel</h1>
 <h3 align="center">I'm a passionate Computer Science/IT student.</h3>
